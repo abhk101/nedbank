@@ -1,4 +1,4 @@
-ansibleclient01.local 
+localhost 
 
 [webservers]
 foo.example.com
